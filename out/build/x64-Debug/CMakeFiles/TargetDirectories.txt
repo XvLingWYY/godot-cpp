@@ -1,0 +1,4 @@
+D:/Godot/project/绝对大卖/cpp/godot-cpp/out/build/x64-Debug/CMakeFiles/generate_bindings.dir
+D:/Godot/project/绝对大卖/cpp/godot-cpp/out/build/x64-Debug/CMakeFiles/godot-cpp.dir
+D:/Godot/project/绝对大卖/cpp/godot-cpp/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+D:/Godot/project/绝对大卖/cpp/godot-cpp/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
